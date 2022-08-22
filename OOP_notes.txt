@@ -1,0 +1,27 @@
+Source: https://www.educative.io/blog/object-oriented-programming
+
+Object oriented programming is a programming method that relies on concepts of classes and objects.
+OOP is used to create simple and reusable code pieces (classes).
+A class is a blueprint of an object.
+Classes often represent broad categories which share common attributes. (Eg: Dog)
+Classes can contain functions called methods that are available only to objects in that type. These functions are defined 
+within that class.
+
+An object is an instance of a class.
+Each object can have unique values in the attibutes of the class it belongs to. 
+
+ OOP allows for class specific behavior through polymorphism
+ OOP secures and protects infromation of objects through encapsulation
+ 
+ Classes - User defined data types
+ Objects - Instances of classes
+ Attributes - information categories that are stored in objects
+ Methods - Represent behaviours, perform actions, return information about objects, or update object's data.
+ Mehtods often modify, update, or delete data.
+ 
+ Four principles of OOP
+ 1. Inheritance - Child classes inherit data and behaviours from parent class
+ 2. Encapsulation - Containing information in an object, exposing only selected information
+ 3. Abstraction- Only expose high level public methods for accessing an object
+ 4. Polymorphism - many methods can do the same task
+ 
